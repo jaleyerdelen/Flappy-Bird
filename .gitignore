@@ -1,0 +1,23 @@
+.vs
+Flappy Bird/.vs
+Flappy Bird/*.csproj
+Flappy Bird/*.unityproj
+Flappy Bird/*.sln
+Flappy Bird/*.suo
+Flappy Bird/*.tmp
+Flappy Bird/*.user
+Flappy Bird/*.userprefs
+Flappy Bird/*.pidb
+Flappy Bird/*.booproj
+Flappy Bird/*.svd
+Flappy Bird/*.pdb
+Flappy Bird/*.mdb
+Flappy Bird/*.opendb
+Flappy Bird/*.VC.db
+
+Flappy Bird/Temp/
+Flappy Bird/Library/
+Flappy Bird/obj/Debug/
+Flappy Bird/obj/Release/
+Flappy Bird/Logs/
+
